@@ -1,0 +1,49 @@
+@font-face {
+
+font-family: 'MyCustomFont';
+src: url('/fonts/MyCustomFont.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+
+img.main-logo,
+img.white-logo {
+    /* background-color: red; */
+    /* max-width: 300px; */
+    max-height: 180px;
+}
+
+p,
+h6,
+ul,
+li {
+    font-size: 18px !important;
+    color: rgb(34, 34, 34);
+}
+
+.main-banner-content {
+    /* background-color: rgba(0, 0, 0, 0.5); */
+    padding: 20px;
+    /* border-radius: 10px; */
+    width: 60%;
+    background-color: aliceblue;
+}
+
+.main-banner-content p,
+.main-banner-content h1 {
+    color: white;
+    /* drop-shadow */
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.9);
+}
+
+.main-banner-content {
+    background-color: #0000005e;
+}
+
+
+.products-area .section-title p ,
+.products-area .section-title ul  {
+    margin-top: 20px;
+    text-align: justify;
+}  
