@@ -10,10 +10,10 @@
     <div class="page-title-area">
         <div class="container">
             <div class="page-title-content">
-                <h2>ADONIS (Ortho-Bondo-Spinal) [M-003]</h2>
+                <h2>ADONIS (ORTHO-BONDO-SPINAL) [M-003]</h2>
                 <ul>
                     <li><a href="/">Home</a></li>
-                    <li>ADONIS (Ortho-Bondo-Spinal) [M-003]</li>
+                    <li>ADONIS (ORTHO-BONDO-SPINAL) [M-003]</li>
                 </ul>
             </div>
         </div>
@@ -23,7 +23,7 @@
     <section class="products-area pt-100 pb-70">
         <div class="container">
             <div class="section-title">
-                <h2>ADONIS (Ortho-Bondo-Spinal) [M-003]</h2>
+                <h2>ADONIS (ORTHO-BONDO-SPINAL) [M-003]</h2>
 
                 <p>This high density Rebonded foam mattress has been specifically designed for those customers who want to sleep on a hard surface.</p>
                 <p>This model would generally go well with youngsters or those having weight on the heavier side. It gives complete balance to Back Vertebrae.</p>

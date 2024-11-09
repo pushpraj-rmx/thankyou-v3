@@ -4,16 +4,16 @@
             <div class="col-lg-6 col-md-12">
                 <div class="about-image">
                     <img src="{{ asset('img/small-about-img.jpg') }}" class="shadow" alt="image">
-                    <img src="{{ asset('img/small-about-img.jpg') }}" class="shadow" alt="image">
+                    {{-- <img src="{{ asset('img/small-about-img.jpg') }}" class="shadow" alt="image"> --}}
                 </div>
             </div>
             <div class="col-lg-6 col-md-12">
 
                 <div class="about-content">
-                    <span class="sub-title">About Us</span>
-                    <h2>ThankYou Mattresses & More: Your Trusted Sleep Partner</h2>
-                    <h6>We offer you a flexible and responsive sleep experience.</h6>
-                    <p><strong>ThankYou Mattresses & More</strong> features a wide range of mattresses and sleep
+                    {{-- <span class="sub-title">About Us</span> --}}
+                    <h2 style="text-decoration : underline; text-transform:uppercase"><span class="thankyou-font" style="text-transform:capitalize">Thankyou</span> Mattresses: Your Trusted Sleep Partner</h2>
+                    <h6>We offer you a Flexible and Responsive Sleep Experience.</h6>
+                    <p><strong><span class="thankyou-font">Thankyou</span> Mattresses</strong> features a wide range of mattresses and sleep
                         products, all designed to provide incredible comfort at competitive prices.</p>
                     <p>Quality sleep is one of the most important aspects of a healthy life. We're here to ensure
                         you get the best rest possible.</p>
@@ -25,7 +25,7 @@
                 </div>
             </div>
         </div>
-        <div class="about-inner-area">
+        {{-- <div class="about-inner-area">
 
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-6 col-sm-12">
@@ -33,7 +33,7 @@
                         <h3>Our Story</h3>
                         <p>From humble beginnings to sleep innovators.</p>
                         <ul class="features-list">
-                            <li><i class="bx bx-check"></i> People love ThankYou Mattresses</li>
+                            <li><i class="bx bx-check"></i> People love <span class="thankyou-font">Thankyou</span> Mattresses</li>
                             <li><i class="bx bx-check"></i> Finest quality materials</li>
                             <li><i class="bx bx-check"></i> The original sleep experts</li>
                             <li><i class="bx bx-check"></i> Trusted for generations</li>
@@ -55,16 +55,18 @@
             </div>
             
             
-        </div>
+        </div> --}}
     </div>
 </section>
+
+
 
 {{-- <section class="features-area ptb-100">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-12 col-md-12">
                 <div class="section-title">
-                    <h2>Thank You Mattresses &amp; More</h2>
+                    <h2><span class="thankyou-font">Thankyou</span> Mattresses &amp; More</h2>
                 </div>
             </div>
 
@@ -188,6 +190,75 @@
 </section> 
 --}}
 
+<section>
+    <div class="container">
+        <div class="row">
+
+            <p>
+                <strong><span class="thankyou-font">Thankyou</span> Mattresses</strong> has been a trusted name in the mattress market since 1995. Based in
+                <strong>New Delhi, India</strong>, We manufacture <strong>Quality Products</strong> known for their
+                <strong>Comfort, Longevity,</strong> and <strong>Reliability</strong>. With an excellent
+                <strong>Manufacturing Facility</strong>, we produce <strong>Innovative Products</strong> adhering to the
+                <strong>Highest Quality Standards</strong>. Our team’s deep <strong>Knowledge</strong> and
+                <strong>Expertise</strong> in the industry enable us to meet all your demands related to <strong>Design,
+                    Quality, Cost,</strong> and <strong>Delivery</strong>. We are committed to <strong>Continuous
+                    Improvement</strong> and aim to satisfy our customers' expectations.
+            </p>
+            <br>
+
+            <h2>BUSINESS OVERVIEW </h2>
+            <table border="1" cellpadding="10" style="text-transform: uppercase;">
+
+
+
+                <tr>
+                    <th>ABOUT MANAGING DIRECTOR : </th>
+                    <td>Mr. Parminder
+                        Singh Kindra (B.Com (Hons), FCA)</td>
+                </tr>
+
+
+                <tr>
+                    <th>BUSINESS TYPE : </th>
+                    <td>Private Limited Company, Manufacturer</td>
+                </tr>
+                <tr>
+                    <th>YEAR OF ESTABLISHMENT : </th>
+                    <td>1995</td>
+                </tr>
+                <tr>
+                    <th>MONTHLY PRODUCTION CAPACITY : </th>
+                    <td>10,000 pieces approx.</td>
+                </tr>
+                <tr>
+                    <th>REGISTRATION :</th>
+                    <td>MSME, CIN, GSTIN, ISO</td>
+                </tr>
+
+                <tr>
+                    <th>FACTORY HELPLINE : </th>
+                    <td>
+                        <a href="        +91-99711234541 "> +91-99711234541 </a>,
+                        <a href="        +91-9310 778 898 "> +91-9310 778 898 </a>
+
+                    </td>
+                </tr>
+            </table>
+
+            {{-- <h2 style="text-transform: uppercase;">Key Features for Customers</h2> --}}
+            {{-- <ul>
+                <li><strong>Direct factory-to-consumer dealings</strong> for transparency and cost efficiency.</li>
+                <li><strong>Efficient and professional staff</strong> ensuring smooth transactions.</li>
+                <li><strong>Cost savings</strong> from reduced overheads and eliminated distributor/dealer margins,
+                    passed on to customers as better quality and service.</li>
+                <li><strong>Easy ordering</strong> through phone, email, website, or a personal staff visit based on
+                    your preference.</li>
+            </ul> --}}
+
+        </div>
+    </div>
+</section>
+
 
 
 <section class="about-area ptb-100">
@@ -196,18 +267,19 @@
             <div class="col-lg-6 col-md-12">
                 <div class="about-image">
                     <img src="{{ asset('img/about-1.jpg') }}" class="shadow" alt="image">
-                    <img src="{{ asset('img/about-1.jpg') }}" class="shadow" alt="image">
+                    {{-- <img src="{{ asset('img/about-1.jpg') }}" class="shadow" alt="image"> --}}
                 </div>
             </div>
             <div class="col-lg-6 col-md-12">
 
                 <div class="about-content">
                     <span class="sub-title">
-                        how it all started
+                        {{-- how it all started --}}
                     </span>
-                    <h2>ThankYou Mattresses & More</h2>
+                    <h2 style="text-transform: uppercase; text-decoration:underline">how it all started :</h2>
                     <h6>
-                        The company ThankYou Mattresses & More was established in the year 1995 by a team of experienced
+                        The company <b> <span class="thankyou-font"> Thank You  Mattresses PVT. LTD. </span></b> was established in the year 1995 by a team
+                        of experienced
                         and professionally qualified family members. </h6>
                     <p>
                         After having created their niche in the commercial market, hotels, hostels, hospitals, and
@@ -217,14 +289,7 @@
                         their money for the type and price range of the mattress they desire, while comparing the
                         quality, warranty, and prices with the best super brands.
                     </p>
-                    <p>
-                        After having created their niche in the commercial market, hotels, hostels, hospitals, and
-                        railways, the management, over time, emphasized and felt the need to develop and enter the arena
-                        of “DIRECT MARKETING NETWORK” (DMN) in the year 2012, so that existing and new customers could
-                        benefit to the maximum in a highly competitive market. Customers can get the right value for
-                        their money for the type and price range of the mattress they desire, while comparing the
-                        quality, warranty, and prices with the best super brands.
-                    </p>
+
                     <div class="features-text">
                         <p>
                             The company proposed to promote the DMN strategy in such a way as to give maximum benefits
@@ -238,42 +303,6 @@
     </div>
 </section>
 
-<section>
-    <style>
-        .border-custom {
-            border: 1px solid #000;
-            padding: 10px;
-        }
-    </style>
-    <div class="container">
-
-        <div class="border-custom">
-            <div class="row justify-content-center">
-
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                    <li style="list-style-type: none; padding-left : 20px;">YEAR OF INCORPORATION : <b>1995</b> </li>
-                    <br>
-                    <li style="list-style-type: none; padding-left : 20px;">REGISTRATION : <b>MSME, CIN, GSTIN, ISO</b>
-                    </li>
-                    <br>
-                    <li style="list-style-type: none; padding-left : 20px;">CELEBRATING <b>29 YEARS</b> OF BUSINESS
-                    </li>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                    <li style="list-style-type: none; padding-left : 20px;">ABOUT MANAGING DIRECTOR : Mr. Parminder
-                        Singh Kindra (B.Com (Hons), FCA) </li>
-                    <br>
-                    <li style="list-style-type: none; padding-left : 20px;">MOBILE NUMBER : For <b>Product Related</b>
-                        Enquiry : +91-99711234541 </li>
-                    <br>
-                    <li style="list-style-type: none; padding-left : 20px;">MOBILE NUMBER : For <b>Business Related</b>
-                        Enquiry : +91-9910078898 </li>
-                </div>
-            </div>
-        </div>
-    </div>
-    {{--  --}}
-</section>
 
 <section class="about-area ptb-100">
     <div class="container">
@@ -281,17 +310,17 @@
             <div class="col-lg-6 col-md-12">
 
                 <div class="about-content">
-                    <span class="sub-title">
-                        Reasons you will love Thank You Mattresses &amp; More
-                    </span>
-                    <h2>Why Choose Us ?</h2>
-                    <p>
+                    {{-- <span class="sub-title">
+                        Reasons you will love <span class="thankyou-font">Thankyou</span> Mattresses &amp; More
+                    </span> --}}
+                    <h2 style="text-transform: uppercase; text-decoration:underline">Why Choose Us : </h2>
+                    <p style="text-transform: uppercase;">
                         In precise, the salient features of our Direct Marketing Network (DMN), which we want to
                         highlight to our customers, are as follows:
                     </p>
 
                     <ul>
-                        <li style="list-style-type:disc">Direct dealing of customers with factories and experienced
+                        <li style="list-style-type:disc">Direct dealing of customers with Factories' Efficient and Experienced
                             staff</li>
                         <li style="list-style-type:disc">Perfect pre- and after-sales service</li>
                         <li style="list-style-type:disc">Odd-sized mattresses can be made and delivered within a
@@ -316,12 +345,18 @@
             <div class="col-lg-6 col-md-12">
                 <div class="about-image">
                     <img src="{{ asset('img/small-about-img.jpg') }}" class="shadow" alt="image">
-                    <img src="{{ asset('img/small-about-img.jpg') }}" class="shadow" alt="image">
+                    {{-- <img src="{{ asset('img/small-about-img.jpg') }}" class="shadow" alt="image"> --}}
                 </div>
             </div>
         </div>
     </div>
 </section>
+
+
+{{-- how to maintain your mattress section below  --}}
+
+
+
 
 
 <section class="about-area ptb-100">
@@ -329,50 +364,51 @@
         <div class="row align-items-center justify-content-center">
             <div class="col-lg-6 col-md-12">
                 <div class="about-image">
-                    <img src="{{ asset('img/small-about-img.jpg') }}" class="shadow" alt="image">
-                    <img src="{{ asset('img/small-about-img.jpg') }}" class="shadow" alt="image">
+                    <img src="{{ asset('images/other-images/product-portfolio.jpg') }}" class="shadow" alt="image">
+                    {{-- <img src="{{ asset('images/other-images/product-portfolio.jpg') }}" class="shadow" alt="image"> --}}
                 </div>
             </div>
             <div class="col-lg-6 col-md-12">
 
                 <div class="about-content">
-                    <span class="sub-title">
+                    {{-- <span class="sub-title">
                         What make us special ...
-                    </span>
-                    <h2>PRODUCT PORTFOLIO:</h2>
-                    <h6>
+                    </span> --}}
+                    <h2 style="text-decoration: underline">PRODUCT PORTFOLIO:</h2>
+                    <h6 style="text-transform: uppercase">
                         We are one of the eminent manufacturers of a quality range of mattresses.
                     </h6>
                     <p>
-                        Presenting a beauty pageant with a difference. The coir fab beauties are extremely beautiful and
+                        Presenting a beauty pageant with a difference. The <b><u><i><span class="thankyou-font">Thankyou</span></i></u></b> beauties are extremely beautiful and
                         extra-comfortable mattresses. You are bringing into your bedroom the luxury of great sleep and
                         ultimate comfort, night after night, in all seasons, year after year.
                     </p>
                     <p>
-                        The coir fab mattresses give you greater back support and remain in shape without sagging, even
+                        The <b><u><i><span class="thankyou-font">Thankyou</span></i></u></b> mattresses give you greater back support and remain in shape without sagging, even
                         after prolonged use.
                     </p>
 
                     <p>
-                        The coir fab mattress brings into your bedroom a touch of class and elegance like never before.
+                        The <b><u><i><span class="thankyou-font">Thankyou</span></i></u></b> mattress brings into your bedroom a touch of class and elegance like never before.
                         It has riveting looks, fine fabrics, and exclusive quilt patterns using the best of PU foam,
                         providing an unmatched range for you to choose from.
                     </p>
 
                     <p>
-                        In our manufacturing process, we use the best raw materials, fabrics, machines, and qualified,
+                        In our manufacturing process, we use the best Raw Materials, Fabrics, Machines, and Qualified,
                         well-experienced staff to deliver the best end product to our customers.
                     </p>
 
-                    <p>
-                        All of this is monitored, controlled, and guided by our mentor and promoter Mr. Parminder Singh
-                        Kindra (Managing Director).
-                    </p>
+
                 </div>
             </div>
         </div>
     </div>
 </section>
+
+
+
+
 
 
 <section class="about-area ptb-100">
@@ -393,7 +429,6 @@
                         <ul class="features-list">
                             <li><i class="bx bx-check"></i> Rebonded foam & its combinations</li>
                             <li><i class="bx bx-check"></i> PU foam, HR foam, & its combinations</li>
-                            <li><i class="bx bx-check"></i> Memory foam & its combinations</li>
                         </ul>
                     </div>
                 </div>
@@ -415,7 +450,8 @@
                         {{-- <p>Rediscover the joy of great sleep</p> --}}
                         <ul class="features-list">
                             <li><i class="bx bx-check"></i>Rubberized coir sheets & its combinations</li>
-                            <li><i class="bx bx-check"></i>PU molded & its combinations</li>
+                            <li><i class="bx bx-check"></i> Memory foam & its combinations</li>
+
                         </ul>
                     </div>
                 </div>
@@ -423,6 +459,9 @@
         </div>
     </div>
 </section>
+
+
+
 
 <section class="about-area ptb-100">
     <div class="container">
@@ -477,6 +516,33 @@
     </div>
 </section>
 
+<section class="about-area ptb-100">
+    <div class="container">
+        <div class="row align-items-center justify-content-center">
+            <div class="col-md-6">
+                <div class="row justify-content-center">
+                    <h4 style="text-decoration: underline">HOW TO MAINTAIN YOUR MATTRESS: </h4>
+                    <ul style="padding-left: 30px">
+                        <li>Don’t fold the mattress, even when shifting or transporting it from one place to another.
+                        </li>
+                        <li>Never use detergents to remove stains or soil.</li>
+                        <li>Do not place very heavy or hot objects on the mattress.</li>
+                        <li>Use a Macintosh or rexine cover for baby beds.</li>
+                        <li>Ensure that the mattress fits properly in your bed.</li>
+                        <li>Lift the mattress and set it aside before lifting the box covers of the bed.</li>
+                        <li>Change the side your mattresses from head to toe side, and toe to head side every six months</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="row justify-content-center">
+                    <img src="{{ asset('images/other-images/mattress-care.jpeg') }}" alt="">
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 <section class="about-area ptb-100">
     <div class="container">
@@ -488,7 +554,7 @@
             </div>
             <div class="row justify-content-center">
                 <p>
-                    Customers should be aware that <i>nothing is truly free</i> — free gifts, big discounts, and
+                    Customers should be aware that <i>nothing is for free</i> — free gifts, big discounts, and
                     exchange of old mattresses are generally eye-wash tactics. The price of the product is often
                     increased or exaggerated, and then big discounts and gifts are offered.
                 </p>
@@ -510,7 +576,9 @@
                         an adjusted price quotation provided.</li>
                     <li>There is a reasonable choice of different colors available for mattress fabrics.</li>
                     <li>Every mattress comes with a warranty.</li>
-                    <li>In rare cases, the configuration of the inner block of the mattress may change by few mm due to unavailability of exact thickness of that particular material, however the total thickness of the block will not be affected.</li>
+                    <li>In rare cases, the configuration of the inner block of the mattress may change by few mm due to
+                        unavailability of exact thickness of that particular material, however the total thickness of
+                        the block will not be affected.</li>
 
                 </ul>
             </div>

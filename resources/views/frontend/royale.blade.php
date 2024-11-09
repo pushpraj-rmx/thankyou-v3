@@ -10,10 +10,10 @@
     <div class="page-title-area">
         <div class="container">
             <div class="page-title-content">
-                <h2>Royale [M-002]</h2>
+                <h2>ROYALE [M-002]</h2>
                 <ul>
                     <li><a href="/">Home</a></li>
-                    <li>Royale [M-002]</li>
+                    <li>ROYALE [M-002]</li>
                 </ul>
             </div>
         </div>
@@ -23,17 +23,17 @@
     <section class="products-area pt-100 pb-70">
         <div class="container">
             <div class="section-title">
-                <h2>Royale [M-002] Model</h2>
+                <h2>ROYALE [M-002] MODEL</h2>
 
                 <p>
-                    Our Royale [M-002] Model is manufactured to satisfy the demand of all types of customers.
+                    Our <b>Royale Model</b> is manufactured to satisfy the demand of all types of customers.
                 </p>
                 <p>
                     The cloth used to cover the mattresses is different and of higher quality than Relaxo Model. Considering
                     the warranty is more in this Model, The density of the inner block is also kept higher.
                 </p>
                 <p>
-                    We offer three variants in this model also so as to satisfy the individual liking body need &
+                    We offer three variants in this model also so as to satisfy the individual liking, body need &
                     requirements of the customer.
                 </p>
             </div>

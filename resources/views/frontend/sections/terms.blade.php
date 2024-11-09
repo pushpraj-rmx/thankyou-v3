@@ -13,7 +13,7 @@
 
       <div class="terms-content">
           <h4>1. Acceptance of Terms</h4>
-          <p>By accessing and using the website of ThankYou Mattresses & More, you accept and agree to be bound by the terms and conditions outlined below. These terms apply to all visitors, users, and others who access or use the website.</p>
+          <p>By accessing and using the website of Thankyou Mattresses & More, you accept and agree to be bound by the terms and conditions outlined below. These terms apply to all visitors, users, and others who access or use the website.</p>
 
           <h4>2. Orders and Pricing</h4>
           <p>All prices listed on the website are in Indian Rupees (INR) and are inclusive of applicable taxes unless specified otherwise. Prices, products, and offers on the website are subject to change without notice. We reserve the right to refuse or cancel orders for any reason, including pricing errors or stock availability.</p>
@@ -34,13 +34,13 @@
           <p>We want you to be satisfied with your purchase. If for any reason you are not, you can request a return or refund within 7 days of delivery. Products must be unused, in their original packaging, and in saleable condition to qualify for a return. Custom or special-sized mattresses are non-returnable unless faulty or damaged. Refunds will be processed after inspection, and may take 7-10 business days to reflect in your account.</p>
 
           <h4>8. Warranty and Claims</h4>
-          <p>ThankYou Mattresses & More provides warranties as stated in the product description. The warranty period varies depending on the product type and model. Warranty claims must be accompanied by the original receipt. The warranty covers defects in materials and workmanship, but excludes damages resulting from improper use, accidents, or unauthorized alterations.</p>
+          <p>Thankyou Mattresses & More provides warranties as stated in the product description. The warranty period varies depending on the product type and model. Warranty claims must be accompanied by the original receipt. The warranty covers defects in materials and workmanship, but excludes damages resulting from improper use, accidents, or unauthorized alterations.</p>
 
           <h4>9. Intellectual Property Rights</h4>
-          <p>All content, including but not limited to images, designs, logos, trademarks, and written material on this website, is the exclusive property of ThankYou Mattresses & More. Unauthorized use, copying, or distribution of this content is prohibited and may result in legal action.</p>
+          <p>All content, including but not limited to images, designs, logos, trademarks, and written material on this website, is the exclusive property of Thankyou Mattresses & More. Unauthorized use, copying, or distribution of this content is prohibited and may result in legal action.</p>
 
           <h4>10. Limitation of Liability</h4>
-          <p>In no event shall ThankYou Mattresses & More, its directors, employees, or agents, be liable for any direct, indirect, incidental, special, or consequential damages arising from the use or inability to use our products or services. This includes but is not limited to loss of profits, data, or goodwill. Our total liability is limited to the amount paid for the product in question.</p>
+          <p>In no event shall Thankyou Mattresses & More, its directors, employees, or agents, be liable for any direct, indirect, incidental, special, or consequential damages arising from the use or inability to use our products or services. This includes but is not limited to loss of profits, data, or goodwill. Our total liability is limited to the amount paid for the product in question.</p>
 
           <h4>11. Privacy Policy</h4>
           <p>Your privacy is important to us. By using our website, you consent to the collection and use of your personal information as outlined in our Privacy Policy. We ensure that your data is protected and will not be shared with third parties without your consent, except as required by law.</p>
@@ -53,7 +53,7 @@
 
           <h4>14. Contact Information</h4>
           <p>If you have any questions or concerns regarding these Terms and Conditions, please contact us at:</p>
-          <p><strong>Email:</strong> support@thankyoumattresses.com</p>
+          <p><strong>Email:</strong> support@Thankyoumattresses.com</p>
           <p><strong>Phone:</strong> +91-99711234541, 9910078898</p>
       </div>
   </div>

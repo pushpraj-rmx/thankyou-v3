@@ -25,11 +25,11 @@
             <div class="section-title">
                 <h2>COIR SERIES (M-007) </h2>
 
-                <p>Our oxford range of mattresses are crafted in combination with coir sheets. These mattresses are also
+                <p>Our Oxford range of mattresses are crafted in combination with coir sheets. These mattresses are also
                     Orthopaedic in nature with giving an extra-natural feel of rubberised coir sheets.</p>
-                <p>The oxford mattresses are made in two variants for the customers to choose from :</p>
+                <p>The Oxford mattresses are made in two variants for the customers to choose from :</p>
                 <ul>
-                    <li>BONDO - COIR : (5") covered with american Jacquard Quilted Cloth </li>
+                    <li>BONDO - COIR : (5") covered with American Jacquard Quilted Cloth </li>
                     <li>COIR - BONDO - COIR : (6") : covered with Knitted or towel Jacquard Quilted Cloth</li>
                 </ul>
 

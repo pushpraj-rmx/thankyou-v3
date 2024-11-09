@@ -21,12 +21,12 @@
               <div class="row justify-content-center">
                   <div class="col-lg-5 col-md-12">
                       <div class="contact-info">
-                          <h3>Visit Us</h3>
+                          <h3>VISIT US</h3>
                           {{-- <p>Have a question? You may find an answer in our <a href="#">FAQs</a>. But you can also contact us.</p> --}}
 
                           <ul class="contact-list">
                               <li>
-                                <i class='bx bx-map'></i> Location:  <a href="https://maps.app.goo.gl/tQDnRiUopUP4rxMi7">212, Nangli Sakravati, Near Najafgarh, New Delhi-110043
+                                <i class='bx bx-map'></i> Location:  <a href="https://maps.app.goo.gl/tQDnRiUopUP4rxMi7">212, Nangli Sakravati, Indrustrial Area, Near Najafgarh, New Delhi-110043
                                 
                                 </a>
                               </li>
@@ -34,19 +34,15 @@
                                 +91 9971 12345 41
                               </a></li>
                               <li><i class='bx bx-phone-call'></i> Call Us: <a href="tel:+01321654214">
-                                +91 9910 0788 98
+                                +91 9310 7788 98
                               </a></li>
-                              <li><i class='bx bx-envelope'></i> Email Us: <a href="mailto:info@thankyoumattress.com">info@thankyoumattress.com</a></li>
+                              <li><i class='bx bx-envelope'></i> Email Us: <a href="mailto:info@Thankyoumattress.com">info@Thankyoumattress.com</a></li>
                               {{-- <li><i class='bx bx-microphone'></i> Fax: <a href="tel:+123456789">+123456789</a></li> --}}
                           </ul>
 
-                          <h3>Opening Hours:</h3>
+                          <h3>OPENING HOURS:</h3>
                           <ul class="opening-hours">
-                              <li><span>Monday:</span> 8AM - 6AM</li>
-                              <li><span>Tuesday:</span> 8AM - 6AM</li>
-                              <li><span>Wednesday:</span> 8AM - 6AM</li>
-                              <li><span>Thursday - Friday:</span> 8AM - 6AM</li>
-                              <li><span>Sunday:</span> Closed</li>
+                              <li><span>7   Days a Week : </span> 10AM  - 7PM</li>
                           </ul>
 
                           <h3>Follow Us:</h3>
@@ -55,18 +51,18 @@
                               <li><a href="#" target="_blank"><i class='bx bxl-twitter'></i></a></li>
                               <li><a href="#" target="_blank"><i class='bx bxl-instagram'></i></a></li>
                               <li><a href="#" target="_blank"><i class='bx bxl-linkedin'></i></a></li>
-                              <li><a href="#" target="_blank"><i class='bx bxl-skype'></i></a></li>
+                              {{-- <li><a href="#" target="_blank"><i class='bx bxl-skype'></i></a></li>
                               <li><a href="#" target="_blank"><i class='bx bxl-pinterest-alt'></i></a></li>
-                              <li><a href="#" target="_blank"><i class='bx bxl-youtube'></i></a></li>
+                              <li><a href="#" target="_blank"><i class='bx bxl-youtube'></i></a></li> --}}
                           </ul>
                       </div>
                   </div>
 
                   <div class="col-lg-7 col-md-12">
                       <div class="contact-form">
-                          <h3>Drop Us A Line</h3>
+                          <h3 style="text-transform: capitalize;">DROP US A LINE</h3>
                           <p>
-                            If you have any questions regarding our products, directions to our stores, or our specials, please feel free to use the below contact form. We will respond to your request at the earliest possible opportunity.   
+                            If you have any questions regarding our products, or our specials, please feel free to use the below contact form. We will respond to your request at the earliest possible opportunity.   
                           </p>
 
                           <form id="contactForm">

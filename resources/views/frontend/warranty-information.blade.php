@@ -11,8 +11,8 @@
           <h2>Product Warranty</h2>
       </div>
       <div class="policy-content">
-          <h3>ThankYou Mattresses & More Warranty Policy</h3>
-          <p>At ThankYou Mattresses & More, we stand behind the quality of our products. All of our mattresses come with a warranty that covers manufacturing defects and other related issues. Please read the details below to understand the scope of our warranty coverage.</p>
+          <h3>Thankyou Mattresses & More Warranty Policy</h3>
+          <p>At Thankyou Mattresses & More, we stand behind the quality of our products. All of our mattresses come with a warranty that covers manufacturing defects and other related issues. Please read the details below to understand the scope of our warranty coverage.</p>
 
           <h4>Warranty Coverage</h4>
           <p>Our warranty covers the following issues:</p>
@@ -50,7 +50,7 @@
           <h4>How to File a Warranty Claim</h4>
           <p>If you experience an issue with your mattress that you believe is covered under warranty, please follow these steps:</p>
           <ul>
-              <li>Contact our customer service team at <a href="mailto:support@thankyoumattresses.com">support@thankyoumattresses.com</a> or call us at 91-99711234541.</li>
+              <li>Contact our customer service team at <a href="mailto:support@Thankyoumattresses.com">support@Thankyoumattresses.com</a> or call us at 91-99711234541.</li>
               <li>Provide proof of purchase and a detailed description of the issue you are experiencing.</li>
               <li>Our team may request photos or additional information to verify the claim.</li>
               <li>If the claim is approved, we will repair or replace the defective product at no cost to you, in accordance with the terms of the warranty.</li>
@@ -67,7 +67,7 @@
           <p>This warranty is non-transferable and applies only to the original purchaser. Any implied warranties, including but not limited to the implied warranties of merchantability and fitness for a particular purpose, are limited to the duration of the express warranty provided herein.</p>
 
           <h4>Contact Us</h4>
-          <p>If you have any questions or concerns regarding our warranty policy, please contact us at <a href="mailto:support@thankyoumattresses.com">support@thankyoumattresses.com</a> or call us at 91-99711234541.</p>
+          <p>If you have any questions or concerns regarding our warranty policy, please contact us at <a href="mailto:support@Thankyoumattresses.com">support@Thankyoumattresses.com</a> or call us at 91-99711234541.</p>
       </div>
   </div>
 </section>

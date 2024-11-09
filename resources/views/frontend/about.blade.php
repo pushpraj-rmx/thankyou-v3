@@ -7,10 +7,10 @@
     <div class="page-title-area">
         <div class="container">
             <div class="page-title-content">
-                <h2>About Us</h2>
+                <h2 style="text-decoration: underline">ABOUT US :</h2>
                 <ul>
                     <li><a href="index.html">Home</a></li>
-                    <li>About Us</li>
+                    <li>ABOUT US</li>
                 </ul>
             </div>
         </div>
@@ -29,7 +29,7 @@
     
             <div class="testimonials-slides owl-carousel owl-theme">
                 <div class="single-testimonials-item">
-                    <p>ThankYou Mattresses & More provided excellent service and the mattress quality is top-notch. I haven’t slept this well in years!</p>
+                    <p>Thankyou Mattresses & More provided excellent service and the mattress quality is top-notch. I haven’t slept this well in years!</p>
     
                     <div class="info">
                         <img src="{{asset('img/male.png')}}" class="shadow rounded-circle" alt="image">

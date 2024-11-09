@@ -28,6 +28,25 @@
 </head>
 
 <body>
+    <div id="loader" style="display: flex; flex-direction:column; align-items: center; justify-content: center; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: white; z-index: 9999;">
+        <img src="{{ asset('img/loader.png') }}" alt="Loading..." style="height: 100%; max-height:600px; width: auto;"/>
+        <br/> <br><br>
+        <p>Please wait white website is loading ... </p>
+    </div>
+
+    <style>
+        body {
+            overflow: hidden; /* Prevent scrolling while the loader is active */
+        }
+    </style>
+
+<script>
+    window.addEventListener('load', function() {
+        document.getElementById('loader').style.display = 'none';
+        document.body.style.overflow = 'auto'; // Allow scrolling after the loader is hidden
+    });
+</script>
+
     <!-- Start Navbar Area -->
     <div class="navbar-area">
         <div class="xton-responsive-nav">
@@ -102,10 +121,10 @@
                             </li>
 
 
-                            <li class="nav-item">
+                            {{-- <li class="nav-item">
                                 <a href="/gallery" class="nav-link">Gallery
                                 </a>
-                            </li>
+                            </li> --}}
                         </ul>
 
                         <div class="others-option">
@@ -199,10 +218,10 @@
                             </li>
 
 
-                            <li class="nav-item">
+                            {{-- <li class="nav-item">
                                 <a href="/gallery" class="nav-link">Gallery
                                 </a>
-                            </li>
+                            </li> --}}
                         </ul>
 
 
@@ -272,7 +291,7 @@
 
                         <div class="about-the-store">
                             <p>
-                                Since 1995, ThankYou Mattresses & More has been crafting quality sleep solutions. We
+                                Since 1995, <span class="thankyou-font">Thankyou</span> Mattresses has been crafting quality sleep solutions. We
                                 combine expertise with innovation to deliver customized comfort, ensuring better sleep
                                 and healthier lives.
                             </p>
@@ -284,7 +303,7 @@
                                 <li><i class='bx bx-phone-call'></i> <a href="tel:+01321654214">+91 9971 12345 41</a>
                                 </li>
                                 <li><i class='bx bx-envelope'></i> <a
-                                        href="mailto:info@thankyoumattress.com ">info@thankyoumattress.com </a>
+                                        href="mailto:info@Thankyoumattress.com ">info@Thankyoumattress.com </a>
                                 </li>
                             </ul>
                         </div>
@@ -858,7 +877,7 @@
                         <div class="about-the-store">
                             <p>
 
-                                Since 1995, <i>ThankYou Mattresses & More</i> has been crafting quality sleep solutions.
+                                Since 1995, <i>Thankyou Mattresses & More</i> has been crafting quality sleep solutions.
                                 We
                                 combine expertise with innovation to deliver customized comfort, ensuring better sleep
                                 and healthier lives.
@@ -871,8 +890,8 @@
                                 <li><i class='bx bx-phone-call'></i> <a href="tel:+9199711234541">+91 9971 12345
                                         41</a>
                                 </li>
-                                <li><i class='bx bx-envelope'></i> <a href="mailto:info@thankyoumattress.com ">
-                                        info@thankyoumattress.com
+                                <li><i class='bx bx-envelope'></i> <a href="mailto:info@Thankyoumattress.com ">
+                                        info@Thankyoumattress.com
                                     </a>
                                 </li>
                             </ul>
@@ -946,7 +965,7 @@
                 <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6 col-md-6">
                         <p>© All Rights Reserved
-                            <a>ThankYou Mattress</a>
+                            <a>Thankyou Mattress</a>
                         </p>
                     </div>
 

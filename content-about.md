@@ -1,10 +1,10 @@
-Here is the rewritten content with "PRESTIGE COIR (INDIA) PRIVATE LIMITED" replaced by "ThankYou Mattresses & More":
+Here is the rewritten content with "PRESTIGE COIR (INDIA) PRIVATE LIMITED" replaced by "Thankyou Mattresses & More":
 
 ---
 
-**ThankYou Mattresses & More**
+**Thankyou Mattresses & More**
 
-The company **ThankYou Mattresses & More** was established in the year 1995 by a team of experienced and professionally qualified family members.
+The company **Thankyou Mattresses & More** was established in the year 1995 by a team of experienced and professionally qualified family members.
 
 After having created their niche in the commercial market, hotels, hostels, hospitals, and railways, the management, over time, emphasized and felt the need to develop and enter the arena of “DIRECT MARKETING NETWORK” (DMN) in the year 2012, so that existing and new customers could benefit to the maximum in a highly competitive market. Customers can get the *right value for their money* for the type and price range of the mattress they desire, while comparing the quality, warranty, and prices with the best super brands.
 

@@ -1315,9 +1315,9 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="about-content">
                         <span class="sub-title">About Us</span>
-                        <h2>ThankYou Mattresses & More: Your Trusted Sleep Partner</h2>
+                        <h2 class="italic-font"><span class="thankyou-font">Thankyou</span> Mattresses & More: Your Trusted Sleep Partner</h2>
                         <h6>We offer you a flexible and responsive sleep experience.</h6>
-                        <p><strong>ThankYou Mattresses & More</strong> features a wide range of mattresses and sleep
+                        <p><strong class="thankyou-font">Thank You Mattresses & More</strong> features a wide range of mattresses and sleep
                             products, all designed to provide incredible comfort at competitive prices.</p>
                         <p>Quality sleep is one of the most important aspects of a healthy life. We're here to ensure
                             you get the best rest possible.</p>

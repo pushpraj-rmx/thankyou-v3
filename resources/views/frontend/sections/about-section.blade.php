@@ -4,16 +4,16 @@
             <div class="col-lg-6 col-md-12">
                 <div class="about-image">
                     <img src="{{ asset('img/small-about-img.jpg') }}" class="shadow" alt="image">
-                    <img src="{{ asset('img/small-about-img.jpg') }}" class="shadow" alt="image">
+                    {{-- <img src="{{ asset('img/small-about-img.jpg') }}" class="shadow" alt="image"> --}}
                 </div>
             </div>
             <div class="col-lg-6 col-md-12">
 
                 <div class="about-content">
-                    <span class="sub-title">About Us</span>
-                    <h2>ThankYou Mattresses & More: Your Trusted Sleep Partner</h2>
+                    {{-- <span class="sub-title">About Us</span> --}}
+                    <h2 class="italic-font"><span class="thankyou-font">Thankyou mattresses </span>: Your Trusted Sleep Partner</h2>
                     <h6>We offer you a flexible and responsive sleep experience.</h6>
-                    <p><strong>ThankYou Mattresses & More</strong> features a wide range of mattresses and sleep
+                    <p><strong><span class="thankyou-font">Thankyou</span> Mattresses </strong> features a wide range of mattresses and sleep
                         products, all designed to provide incredible comfort at competitive prices.</p>
                     <p>Quality sleep is one of the most important aspects of a healthy life. We're here to ensure
                         you get the best rest possible.</p>
@@ -22,181 +22,410 @@
                         <p>We provide customers with a hassle-free and worry-free mattress shopping experience from
                             selection to delivery and beyond.</p>
                     </div>
-                </div>
-            </div>
-        </div>
-        <div class="about-inner-area">
-
-            {{-- <div class="row justify-content-center">
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="about-text">
-                        <h3>Our Story</h3>
-                        <p>From humble beginnings to sleep innovators.</p>
-                        <ul class="features-list">
-                            <li><i class="bx bx-check"></i> People love ThankYou Mattresses</li>
-                            <li><i class="bx bx-check"></i> Finest quality materials</li>
-                            <li><i class="bx bx-check"></i> The original sleep experts</li>
-                            <li><i class="bx bx-check"></i> Trusted for generations</li>
-                        </ul>
+                    <br>
+                    <div class="btn-box">
+                        <a href="/about" class="default-btn">Read More</a>
+                        {{-- <a href="products-right-sidebar-2.html" class="optional-btn">Shop Men's</a> --}}
                     </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="about-text">
-                        <h3>Our Values</h3>
-                        <p>Comfort, quality, and customer satisfaction.</p>
-                        <ul class="features-list">
-                            <li><i class="bx bx-check"></i> Always in comfort!</li>
-                            <li><i class="bx bx-check"></i> Discover your perfect sleep</li>
-                            <li><i class="bx bx-check"></i> Find your ideal mattress</li>
-                            <li><i class="bx bx-check"></i> Feel-good resting</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6">
-                    <div class="about-text">
-                        <h3>Our Promise</h3>
-                        <p>Rediscover the joy of great sleep</p>
-                        <ul class="features-list">
-                            <li><i class="bx bx-check"></i> Get better sleep</li>
-                            <li><i class="bx bx-check"></i> Love your bed again</li>
-                            <li><i class="bx bx-check"></i> Personalized comfort</li>
-                            <li><i class="bx bx-check"></i> Rest well in all seasons</li>
-                        </ul>
-                    </div>
-                </div>
-            </div> --}}
-        </div>
-    </div>
-</section>
-
-{{-- 
-<section class="features-area ptb-100">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-12 col-md-12">
-                <div class="section-title">
-                    <h2>Salient Features of Our Direct Marketing Network</h2>
-                </div>
-            </div>
-
-            <div class="col-lg-6 col-md-6">
-                <div class="single-feature">
-                    <h3>Direct Dealing with Factories</h3>
-                    <p>Customers directly interact with factories for a seamless experience.</p>
-                </div>
-                <div class="single-feature">
-                    <h3>Pre & After Sales Service</h3>
-                    <p>Perfect assistance before and after your purchase.</p>
-                </div>
-                <div class="single-feature">
-                    <h3>Customized Mattresses</h3>
-                    <p>Odd-size mattresses available with on-time delivery.</p>
-                </div>
-                <div class="single-feature">
-                    <h3>Skin-Friendly Fabrics</h3>
-                    <p>Breathable, skin-friendly fabrics in a variety of colors.</p>
-                </div>
-            </div>
-
-            <div class="col-lg-6 col-md-6">
-                <div class="single-feature">
-                    <h3>Special Bulk Orders</h3>
-                    <p>Special offers for bulk and institutional sales.</p>
-                </div>
-                <div class="single-feature">
-                    <h3>Long-Term Relationship Discounts</h3>
-                    <p>Exclusive gifts and discounts for long-term customers.</p>
-                </div>
-                <div class="single-feature">
-                    <h3>Expert Advice</h3>
-                    <p>Personalized advice for customers of different age groups.</p>
                 </div>
             </div>
         </div>
     </div>
 </section>
 
-<section class="portfolio-area ptb-100">
-    <div class="container">
-        <div class="row align-items-center">
-            <div class="col-lg-6 col-md-12">
-                <div class="portfolio-image">
-                    <img src="{{ asset('img/portfolio-1.jpg') }}" class="shadow" alt="image">
-                </div>
-            </div>
+{{-- add some products here --}}
 
-            <div class="col-lg-6 col-md-12">
-                <div class="portfolio-content">
-                    <span class="sub-title">Product Portfolio</span>
-                    <h2>Explore Our Range of Mattresses</h2>
-                    <p>Our mattresses are designed to provide unmatched comfort and luxury for years, offering superior back support and resilience.</p>
-                    <p>Each mattress is crafted using the best raw materials, fabrics, and cutting-edge technology to ensure a restful night's sleep.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="mattress-types-area ptb-100">
+<section class="products-area pb-70">
     <div class="container">
         <div class="section-title">
-            <h2>Types of Mattresses</h2>
+            <h2>Our Best Selling Products</h2>
         </div>
-        <div class="row">
-            <div class="col-lg-4 col-md-6">
-                <div class="single-type">
-                    <h3>Rebonded Foam</h3>
-                    <p>Combines support and durability for a firm sleep experience.</p>
-                </div>
-                <div class="single-type">
-                    <h3>PU Foam</h3>
-                    <p>Offers flexibility and responsive support for comfort.</p>
+        <div class="row justify-content-center">
+
+            {{--  --}}
+
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="single-products-box">
+                    <div class="products-image">
+                        <a href="/relaxo/ortho">
+                            <img src="{{ asset('product/relaxo-1.jpg') }}" class="main-image" alt="image">
+                            <img src="{{ asset('product/relaxo-1.jpg') }}" class="hover-image" alt="image">
+                        </a>
+
+                        <div class="products-button">
+                        </div>
+                    </div>
+
+                    <div class="products-content">
+                        <h3><a href="/relaxo/ortho">RELAXO -ORTHO (M-001A)</a></h3>
+                        <div class="price">
+                            {{-- <span class="old-price">₹4,990</span>
+                            <span class="new-price">₹3,333/- per piece</span> --}}
+                        </div>
+                        <div class="star-rating">
+                            {{-- <i class='bx bxs-star'></i>
+                            <i class='bx bxs-star'></i>
+                            <i class='bx bxs-star'></i>
+                            <i class='bx bxs-star'></i>
+                            <i class='bx bxs-star'></i> --}}
+                        </div>
+                        {{-- <a href="cart.html" class="add-to-cart">Add to Cart</a> --}}
+                    </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="single-type">
-                    <h3>Memory Foam</h3>
-                    <p>Molds to your body for personalized comfort and pressure relief.</p>
-                </div>
-                <div class="single-type">
-                    <h3>Bonnel & Pocket Spring</h3>
-                    <p>Combines spring technology for enhanced support and stability.</p>
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="single-products-box">
+                    <div class="products-image">
+                        <a href="/relaxo/softy-hardy">
+                            <img src="{{ asset('product/relaxo-1.jpg') }}" class="main-image" alt="image">
+                            <img src="{{ asset('product/relaxo-1.jpg') }}" class="hover-image" alt="image">
+                        </a>
+
+                        <div class="products-button">
+                            {{-- <ul>
+                              <li>
+                                  <div class="wishlist-btn">
+                                      <a href="#" data-bs-toggle="modal"
+                                          data-bs-target="#shoppingWishlistModal">
+                                          <i class='bx bx-heart'></i>
+                                          <span class="tooltip-label">Add to Wishlist</span>
+                                      </a>
+                                  </div>
+                              </li>
+                              <li>
+                                  <div class="compare-btn">
+                                      <a href="compare.html">
+                                          <i class='bx bx-refresh'></i>
+                                          <span class="tooltip-label">Compare</span>
+                                      </a>
+                                  </div>
+                              </li>
+                              <li>
+                                  <div class="quick-view-btn">
+                                      <a href="#" data-bs-toggle="modal" data-bs-target="#productsQuickView">
+                                          <i class='bx bx-search-alt'></i>
+                                          <span class="tooltip-label">Quick View</span>
+                                      </a>
+                                  </div>
+                              </li>
+                          </ul> --}}
+                        </div>
+                    </div>
+
+                    <div class="products-content">
+                        <h3><a href="/relaxo/softy-hardy">RELAXO -SOFTY HARDY (M-001B)</a></h3>
+                        <div class="price">
+                            {{-- <span class="old-price">₹4,990</span>
+                          <span class="new-price">₹3,333/- per piece</span> --}}
+                        </div>
+                        <div class="star-rating">
+                            {{-- <i class='bx bxs-star'></i>
+                            <i class='bx bxs-star'></i>
+                            <i class='bx bxs-star'></i>
+                            <i class='bx bxs-star'></i>
+                            <i class='bx bxs-star'></i> --}}
+                        </div>
+                        {{-- <a href="cart.html" class="add-to-cart">Add to Cart</a> --}}
+                    </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="single-type">
-                    <h3>Rubber Latex Foam</h3>
-                    <p>Provides a natural and eco-friendly sleep solution.</p>
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="single-products-box">
+                    <div class="products-image">
+                        <a href="/relaxo/softy">
+                            <img src="{{ asset('product/relaxo-1.jpg') }}" class="main-image" alt="image">
+                            <img src="{{ asset('product/relaxo-1.jpg') }}" class="hover-image" alt="image">
+                        </a>
+
+                        <div class="products-button">
+                            {{-- <ul>
+                            <li>
+                                <div class="wishlist-btn">
+                                    <a href="#" data-bs-toggle="modal"
+                                        data-bs-target="#shoppingWishlistModal">
+                                        <i class='bx bx-heart'></i>
+                                        <span class="tooltip-label">Add to Wishlist</span>
+                                    </a>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="compare-btn">
+                                    <a href="compare.html">
+                                        <i class='bx bx-refresh'></i>
+                                        <span class="tooltip-label">Compare</span>
+                                    </a>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="quick-view-btn">
+                                    <a href="#" data-bs-toggle="modal" data-bs-target="#productsQuickView">
+                                        <i class='bx bx-search-alt'></i>
+                                        <span class="tooltip-label">Quick View</span>
+                                    </a>
+                                </div>
+                            </li>
+                        </ul> --}}
+                        </div>
+                    </div>
+
+                    <div class="products-content">
+                        <h3><a href="relaxo/softy">RELAXO -SOFTY (M-001C)</a></h3>
+                        <div class="price">
+                            {{-- <span class="old-price">₹4,990</span>
+                        <span class="new-price">₹3,333/- per piece</span> --}}
+                        </div>
+                        <div class="star-rating">
+                            {{-- <i class='bx bxs-star'></i>
+                            <i class='bx bxs-star'></i>
+                            <i class='bx bxs-star'></i>
+                            <i class='bx bxs-star'></i>
+                            <i class='bx bxs-star'></i> --}}
+                        </div>
+                        {{-- <a href="cart.html" class="add-to-cart">Add to Cart</a> --}}
+                    </div>
                 </div>
-                <div class="single-type">
-                    <h3>Rubberized Coir</h3>
-                    <p>Offers firmness and natural breathability.</p>
+            </div>
+
+
+            {{--  --}}
+
+        </div>
+    </div>
+</section>
+
+{{-- then add offer banner here --}}
+
+<section class="offer-area bg-image1 ptb-100 jarallax" data-jarallax="{&quot;speed&quot;: 0.3}">
+    <div class="container-fluid">
+        <div class="row justify-content-center">
+            <div class="col-lg-5 col-md-6">
+                <div class="offer-content">
+                    <span class="sub-title">Limited Time Offer!</span>
+                    <h2>-40% OFF</h2>
+                    <p>Get The Best Deals Now</p>
+                    <a href="products-one-row.html" class="default-btn">Discover Now</a>
                 </div>
             </div>
         </div>
     </div>
 </section>
 
+{{-- then --}}
 
-<section class="customer-awareness-area ptb-100">
+<section class="products-area pb-70 pt-70">
     <div class="container">
-        <div class="row align-items-center">
-            <div class="col-lg-6 col-md-12">
-                <div class="awareness-image">
-                    <img src="{{ asset('img/awareness.jpg') }}" class="shadow" alt="image">
+        <div class="section-title">
+            <span class="sub-title">See Our Collection</span>
+            <h2>    gfjh</h2>
+        </div>
+        <div class="row justify-content-center">
+
+            {{--  --}}
+
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="single-products-box">
+                    <div class="products-image">
+                        <a href="/relaxo/ortho">
+                            <img src="{{ asset('product/relaxo-1.jpg') }}" class="main-image" alt="image">
+                            <img src="{{ asset('product/relaxo-1.jpg') }}" class="hover-image" alt="image">
+                        </a>
+
+                        <div class="products-button">
+                        </div>
+                    </div>
+
+                    <div class="products-content">
+                        <h3><a href="/relaxo/ortho">RELAXO -ORTHO (M-001A)</a></h3>
+                        <div class="price">
+                            {{-- <span class="old-price">₹4,990</span>
+                            <span class="new-price">₹3,333/- per piece</span> --}}
+                        </div>
+                        <div class="star-rating">
+                            {{-- <i class='bx bxs-star'></i>
+                            <i class='bx bxs-star'></i>
+                            <i class='bx bxs-star'></i>
+                            <i class='bx bxs-star'></i>
+                            <i class='bx bxs-star'></i> --}}
+                        </div>
+                        {{-- <a href="cart.html" class="add-to-cart">Add to Cart</a> --}}
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="single-products-box">
+                    <div class="products-image">
+                        <a href="/relaxo/softy-hardy">
+                            <img src="{{ asset('product/relaxo-1.jpg') }}" class="main-image" alt="image">
+                            <img src="{{ asset('product/relaxo-1.jpg') }}" class="hover-image" alt="image">
+                        </a>
+
+                        <div class="products-button">
+                            {{-- <ul>
+                              <li>
+                                  <div class="wishlist-btn">
+                                      <a href="#" data-bs-toggle="modal"
+                                          data-bs-target="#shoppingWishlistModal">
+                                          <i class='bx bx-heart'></i>
+                                          <span class="tooltip-label">Add to Wishlist</span>
+                                      </a>
+                                  </div>
+                              </li>
+                              <li>
+                                  <div class="compare-btn">
+                                      <a href="compare.html">
+                                          <i class='bx bx-refresh'></i>
+                                          <span class="tooltip-label">Compare</span>
+                                      </a>
+                                  </div>
+                              </li>
+                              <li>
+                                  <div class="quick-view-btn">
+                                      <a href="#" data-bs-toggle="modal" data-bs-target="#productsQuickView">
+                                          <i class='bx bx-search-alt'></i>
+                                          <span class="tooltip-label">Quick View</span>
+                                      </a>
+                                  </div>
+                              </li>
+                          </ul> --}}
+                        </div>
+                    </div>
+
+                    <div class="products-content">
+                        <h3><a href="/relaxo/softy-hardy">RELAXO -SOFTY HARDY (M-001B)</a></h3>
+                        <div class="price">
+                            {{-- <span class="old-price">₹4,990</span>
+                          <span class="new-price">₹3,333/- per piece</span> --}}
+                        </div>
+                        <div class="star-rating">
+                            {{-- <i class='bx bxs-star'></i>
+                            <i class='bx bxs-star'></i>
+                            <i class='bx bxs-star'></i>
+                            <i class='bx bxs-star'></i>
+                            <i class='bx bxs-star'></i> --}}
+                        </div>
+                        {{-- <a href="cart.html" class="add-to-cart">Add to Cart</a> --}}
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="single-products-box">
+                    <div class="products-image">
+                        <a href="/relaxo/softy">
+                            <img src="{{ asset('product/relaxo-1.jpg') }}" class="main-image" alt="image">
+                            <img src="{{ asset('product/relaxo-1.jpg') }}" class="hover-image" alt="image">
+                        </a>
+
+                        <div class="products-button">
+                            {{-- <ul>
+                            <li>
+                                <div class="wishlist-btn">
+                                    <a href="#" data-bs-toggle="modal"
+                                        data-bs-target="#shoppingWishlistModal">
+                                        <i class='bx bx-heart'></i>
+                                        <span class="tooltip-label">Add to Wishlist</span>
+                                    </a>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="compare-btn">
+                                    <a href="compare.html">
+                                        <i class='bx bx-refresh'></i>
+                                        <span class="tooltip-label">Compare</span>
+                                    </a>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="quick-view-btn">
+                                    <a href="#" data-bs-toggle="modal" data-bs-target="#productsQuickView">
+                                        <i class='bx bx-search-alt'></i>
+                                        <span class="tooltip-label">Quick View</span>
+                                    </a>
+                                </div>
+                            </li>
+                        </ul> --}}
+                        </div>
+                    </div>
+
+                    <div class="products-content">
+                        <h3><a href="relaxo/softy">RELAXO -SOFTY (M-001C)</a></h3>
+                        <div class="price">
+                            {{-- <span class="old-price">₹4,990</span>
+                        <span class="new-price">₹3,333/- per piece</span> --}}
+                        </div>
+                        <div class="star-rating">
+                            {{-- <i class='bx bxs-star'></i>
+                            <i class='bx bxs-star'></i>
+                            <i class='bx bxs-star'></i>
+                            <i class='bx bxs-star'></i>
+                            <i class='bx bxs-star'></i> --}}
+                        </div>
+                        {{-- <a href="cart.html" class="add-to-cart">Add to Cart</a> --}}
+                    </div>
                 </div>
             </div>
 
-            <div class="col-lg-6 col-md-12">
-                <div class="awareness-content">
-                    <h2>Customer Awareness</h2>
-                    <p>Be mindful that discounts and free gifts can often be misleading. Our prices are designed to offer the best quality without hidden costs.</p>
-                    <p>We ensure our mattresses do not contain plastic fillers, which can be harmful to health and obstruct air circulation.</p>
+
+            {{--  --}}
+
+        </div>
+    </div>
+</section>
+
+
+
+<!-- Start Testimonials Area -->
+<section class="testimonials-area ptb-100">
+    <div class="container">
+        <div class="section-title">
+            <span class="sub-title">Testimonials</span>
+            <h2>What Clients Say About Us</h2>
+        </div>
+
+        <div class="testimonials-slides owl-carousel owl-theme">
+            <div class="single-testimonials-item">
+                <p><span class="thankyou-font">Thankyou</span> Mattresses  provided excellent service and the mattress quality is top-notch. I
+                    haven’t slept this well in years!</p>
+
+                <div class="info">
+                    <img src="{{ asset('img/male.png') }}" class="shadow rounded-circle" alt="image">
+                    <h3>Amanpreet Singh</h3>
+                    <span>Business Owner</span>
+                </div>
+            </div>
+
+            <div class="single-testimonials-item">
+                <p>I was impressed with their professionalism and timely delivery. The mattress fits perfectly and
+                    offers great comfort.</p>
+
+                <div class="info">
+                    <img src="{{ asset('img/female.png') }}" class="shadow rounded-circle" alt="image">
+                    <h3>Simran Kaur</h3>
+                    <span>Teacher</span>
+                </div>
+            </div>
+
+            <div class="single-testimonials-item">
+                <p>Very happy with my purchase. The staff was helpful in guiding me to choose the right mattress for my
+                    needs.</p>
+
+                <div class="info">
+                    <img src="{{ asset('img/male.png') }}" class="shadow rounded-circle" alt="image">
+                    <h3>Rohit Sharma</h3>
+                    <span>Engineer</span>
+                </div>
+            </div>
+
+            <div class="single-testimonials-item">
+                <p>I bought a custom-sized mattress for my home. The quality is fantastic and the price was very
+                    reasonable.</p>
+
+                <div class="info">
+                    <img src="{{ asset('img/female.png') }}" class="shadow rounded-circle" alt="image">
+                    <h3>Anjali Verma</h3>
+                    <span>Interior Designer</span>
                 </div>
             </div>
         </div>
     </div>
-</section> 
-
-
---}}
+</section>
+<!-- End Testimonials Area -->

@@ -23,7 +23,7 @@ Because when you sleep well, you wake well.
 
 
 
-ThankYou Mattresses & More provides a wide range of mattresses, Pillows and other home products, all designed to provide incredible comfort at competitive prices.
+Thankyou Mattresses & More provides a wide range of mattresses, Pillows and other home products, all designed to provide incredible comfort at competitive prices.
 
 Quality sleep is one of the most important aspects of a healthy life. We're here to ensure you get the best rest possible.
 

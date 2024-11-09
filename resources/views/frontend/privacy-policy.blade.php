@@ -10,7 +10,7 @@
 
       <div class="privacy-content">
           <h4>1. Introduction</h4>
-          <p>ThankYou Mattresses & More is committed to protecting the privacy of our customers. This Privacy Policy outlines how we collect, use, disclose, and safeguard your information when you visit our website or interact with our services. By using our website, you consent to the practices described in this policy.</p>
+          <p>Thankyou Mattresses & More is committed to protecting the privacy of our customers. This Privacy Policy outlines how we collect, use, disclose, and safeguard your information when you visit our website or interact with our services. By using our website, you consent to the practices described in this policy.</p>
 
           <h4>2. Information We Collect</h4>
           <p>We collect both personal and non-personal information to enhance your experience on our website. The types of information we collect include:</p>
@@ -72,9 +72,9 @@
 
           <h4>12. Contact Us</h4>
           <p>If you have any questions, concerns, or requests regarding this Privacy Policy or the handling of your personal information, please contact us at:</p>
-          <p><strong>Email:</strong> privacy@thankyoumattresses.com</p>
+          <p><strong>Email:</strong> privacy@Thankyoumattresses.com</p>
           <p><strong>Phone:</strong> +91-99711234541, 9910078898</p>
-          <p><strong>Address:</strong> ThankYou Mattresses & More, [Company Address]</p>
+          <p><strong>Address:</strong> Thankyou Mattresses & More, [Company Address]</p>
       </div>
   </div>
 </section>

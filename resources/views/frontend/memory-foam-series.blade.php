@@ -29,7 +29,7 @@
                     on the back and want the feel of 'sink in' while lying down. The memory foam sinks in when lying firm
                     and revives to original shape when not in use.</p>
                 <p>A premium product for those who value it. We have priced it at very competitive rates.</p>
-                <p>Our This model is available in 3 variants :</p>
+                <p>Our This model is available in 4 variants :</p>
 
                 <ul>
 
@@ -42,6 +42,9 @@
                         and Two Layers of Memory Foam on top.</li>
                     <li>MEMORY LUXURY : (7” Thickness) This Model comprises of High Resilience (HR) Foam , Softy Foam and
                         Two Layers of Memory Foam on top.</li>
+
+                        <li>MEMORY LUXURY : (5” Thickness) This Model comprises of High Resilience (HR) Foam , Softy Foam and
+                            One Layer of Memory Foam on top.</li>
                 </ul>
                 <p>
                     Covered with Knitted or Towel Jacquard Quilted Cloth.

@@ -11,7 +11,7 @@
       </div>
       <div class="policy-content">
           <h3>Shipping Information</h3>
-          <p>At ThankYou Mattresses & More, we are committed to delivering your products safely and efficiently. Our shipping policy is designed to ensure that your order reaches you in a timely manner and in perfect condition.</p>
+          <p>At Thankyou Mattresses & More, we are committed to delivering your products safely and efficiently. Our shipping policy is designed to ensure that your order reaches you in a timely manner and in perfect condition.</p>
 
           <h4>Shipping Methods & Costs</h4>
           <p>We offer a variety of shipping options depending on your location:</p>
@@ -52,7 +52,7 @@
           </ul>
 
           <h4>How to Initiate a Return</h4>
-          <p>To initiate a return, please contact our customer support team at <a href="mailto:support@thankyoumattresses.com">support@thankyoumattresses.com</a> or call us at 91-99711234541. Our team will guide you through the return process and provide you with a return shipping label if eligible.</p>
+          <p>To initiate a return, please contact our customer support team at <a href="mailto:support@Thankyoumattresses.com">support@Thankyoumattresses.com</a> or call us at 91-99711234541. Our team will guide you through the return process and provide you with a return shipping label if eligible.</p>
 
           <h4>Return Shipping Costs</h4>
           <p>The cost of return shipping will be borne by the customer unless the product is defective or the wrong item was shipped. In such cases, we will cover the return shipping charges.</p>
@@ -64,7 +64,7 @@
           <p>If you wish to exchange a product for a different size or model, please contact us within 15 days of receiving your product. The product to be exchanged must meet the same conditions as returns.</p>
 
           <h4>Contact Us</h4>
-          <p>If you have any questions regarding our shipping and returns policy, feel free to reach out to us at <a href="mailto:support@thankyoumattresses.com">support@thankyoumattresses.com</a> or call us at 91-99711234541.</p>
+          <p>If you have any questions regarding our shipping and returns policy, feel free to reach out to us at <a href="mailto:support@Thankyoumattresses.com">support@Thankyoumattresses.com</a> or call us at 91-99711234541.</p>
       </div>
   </div>
 </section>

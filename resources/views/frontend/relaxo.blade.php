@@ -2,7 +2,7 @@
 
 @extends('layouts.frontend')
 
-@section('title', 'Royale Series | Thankyou Mattresses & More')
+@section('title', 'Relaxo Series | Thank    you Mattresses & More')
 
 
 @section('content')
@@ -10,10 +10,10 @@
     <div class="page-title-area">
         <div class="container">
             <div class="page-title-content">
-                <h2>Relaxo [M-001]</h2>
+                <h2>RELAXO [M-001]</h2>
                 <ul>
                     <li><a href="/">Home</a></li>
-                    <li>Relaxo [M-001]</li>
+                    <li>RELAXO [M-001]</li>
                 </ul>
             </div>
         </div>
@@ -23,10 +23,10 @@
     <section class="products-area pt-100 pb-70">
         <div class="container">
             <div class="section-title">
-                <h2>Relaxo [M-001] Model</h2>
+                <h2>RELAXO [M-001] MODEL</h2>
 
                 <p>
-                    Our Relaxo [M-001] Model are entry level mattresses generally for those customers who change from
+                    Our Relaxo Model are entry level mattresses generally for those customers who change from
                     traditional cotton mattresses to mattresses in vogue today.
 
                     These mattresses are manufactured keeping in mind economy & budget but without compromising on any
@@ -46,14 +46,6 @@
                 </p>
 
 
-                {{-- <span class="sub-title">
-                    Our Relaxo [M-001] Model are entry level mattresses generally for those customers who change from
-                    traditional cotton mattresses to mattresses in vague today.
-                    These mattresses are manufactured keeping in mind economy & budget but without compromising on any
-                    Quality, Durability or Comfort.
-                    We offer three variants in this model so as to satisfy the individual liking / requirements of the
-                    customer.
-                </span> --}}
             </div>
             <div class="row justify-content-center">
 

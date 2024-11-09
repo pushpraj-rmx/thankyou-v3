@@ -27,7 +27,7 @@
 
                 <p>Our Debonair Mattress as the name suggests is a model crafted as soft on one side and hard on the other side.</p>
                 <p>Top side of the mattress is fixed with high density Softy Foam & the other side has high density Rebonded Foam.</p>
-                <p>This mattress model has a twin bonefit that two people sleeping on it can sleep on the side of their choice i.e. soft back or hard back.</p>
+                <p>This mattress model has a twin benifit that two people sleeping on it can sleep on the side of their choice i.e. soft back or hard back.</p>
                 <p>This preference will be possible only if two mattresses are made of the total bed size.</p>
                 <p>Our this model is available in one variant with different thicknesses.</p>
                 <p>Covered with Knitted or Towel Jacquard Quilted Cloth.</p>

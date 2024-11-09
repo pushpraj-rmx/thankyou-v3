@@ -11,10 +11,10 @@
 
                 <div class="about-content">
                     <span class="sub-title">About Us</span>
-                    <h2>ThankYou Mattresses & More: Your Trusted Sleep Partner</h2>
+                    <h2>Thankyou Mattresses & More: Your Trusted Sleep Partner</h2>
                     <h6>We offer you a flexible and responsive sleep experience.</h6>
-                    <p>at <strong>ThankYou Mattresses & More</strong> 
-                        At ThankYou Mattresses & More, we believe that a good night’s sleep shouldn’t come at a high price. That’s why we offer a wide range of cozy mattresses and sleep products, all designed to give you the comfort you deserve—without breaking the bank.
+                    <p>at <strong>Thankyou Mattresses & More</strong> 
+                        At Thankyou Mattresses & More, we believe that a good night’s sleep shouldn’t come at a high price. That’s why we offer a wide range of cozy mattresses and sleep products, all designed to give you the comfort you deserve—without breaking the bank.
 
                         
                     </p>
@@ -37,7 +37,7 @@
                         <h3>Our Story</h3>
                         <p>---> From humble beginnings to sleep innovators.</p>
                         <ul class="features-list">
-                            <li><i class="bx bx-check"></i> People love ThankYou Mattresses</li>
+                            <li><i class="bx bx-check"></i> People love Thankyou Mattresses</li>
                             <li><i class="bx bx-check"></i> Finest quality materials</li>
                             <li><i class="bx bx-check"></i> The original sleep experts</li>
                             <li><i class="bx bx-check"></i> Trusted for generations</li>

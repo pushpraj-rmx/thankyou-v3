@@ -1,3 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@400;700&display=swap');
+@import url('https://fonts.cdnfonts.com/css/back-to-black-demo');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Tangerine:wght@400;700&display=swap');
+                
+@font-face {
+    font-family: 'BackToBlackDemo';
+    src: url('./fonts/BackToBlackDemo.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Apply the font to a specific element or globally */
+body {
+    font-family: 'YourCustomFont', sans-serif;
+}
+
+
 @font-face {
 
 font-family: 'MyCustomFont';
@@ -30,6 +47,12 @@ li {
     background-color: aliceblue;
 }
 
+@media (max-width: 768px) {
+    .main-banner-content {
+        width: 100%;
+    }
+}
+
 .main-banner-content p,
 .main-banner-content h1 {
     color: white;
@@ -37,13 +60,63 @@ li {
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.9);
 }
 
+
+/* 
+
+
+
+Progressivemortgages 
+
+Domain 
+
+Progressiveloans.in
+
+
+Username:- pmloans
+Password PARVESHanand@06699
+
+
+
+
+
+
+
+
+*/
+
+
 .main-banner-content {
     background-color: #0000005e;
 }
-
 
 .products-area .section-title p ,
 .products-area .section-title ul  {
     margin-top: 20px;
     text-align: justify;
 }  
+
+.main-banner-content h1 {
+    /* font-family: "Tangerine", cursive !important; */
+    font-family: "Playfair Display", serif;
+    font-style: italic;
+}
+
+.thankyou-font {
+    font-family: 'Back to Black Demo', sans-serif;
+    font-weight: 100;
+    /* font-family: 'BackToBlackDemo'; */
+}
+
+h2,
+.italic-font {
+    font-family: "Playfair Display", serif;
+    font-style: italic;
+    font-weight: 100;
+
+}
+
+.products-content h3 {
+    font-family: "Playfair Display", serif;
+    font-style: italic;
+    text-transform: uppercase;
+}
